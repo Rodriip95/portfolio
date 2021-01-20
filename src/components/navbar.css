@@ -1,0 +1,10 @@
+.nav-link{
+    font-family: 'Spartan', sans-serif;
+    color: #000 !important;
+}
+
+.nav-link:hover{
+    transition: color 0.5s;
+    transition-timing-function: ease;    
+    color: rgb(86, 12, 206) !important;
+}

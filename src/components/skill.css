@@ -1,0 +1,32 @@
+#skill {
+  text-align: center;
+  padding-bottom: 40px;
+}
+
+#skill h1 {
+  font-family: "Exo 2", sans-serif;
+  font-weight: 600;
+  font-size: 48px;
+  color: white;
+}
+
+.titulos-skills {
+  font-family: "Exo 2", sans-serif;
+}
+
+.tarjeta-skill {
+  width: 500px;
+  height: 150px;
+  padding: 15px 15px;
+  background-color: white;
+  margin: 20px;
+  border-radius: 8px;
+}
+
+.listado-img {
+  display: flex;
+  justify-content: space-around;
+}
+.listado-img div{
+    margin: 5px 10px;
+}
